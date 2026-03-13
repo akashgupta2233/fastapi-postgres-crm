@@ -1,4 +1,4 @@
-# simple-crm-fastapi-sqlmodel
+# simple-crm-fastapi
 Simple CRM based on FastAPI and SQLModel
 
 ## Configuration
